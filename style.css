@@ -14,8 +14,9 @@ body {
 }
 main{
     background: url(images/Mobile.svg);
-    width: 357px;
+    width: 375px;
     height: 812px;
+   
 }
 .container{
     max-width: 250px;
@@ -26,7 +27,7 @@ main{
 }
 .avatar{
     width: 10rem;
-    margin: 11.75rem auto 0;
+    margin: 11.5rem auto 0;
     position: relative;
 }
 .avatar span{
@@ -68,3 +69,4 @@ ul{
     justify-content: center;
 
 }
+
